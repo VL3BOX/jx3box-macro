@@ -1,0 +1,13 @@
+{
+  "name": "@jx3box/jx3box-macro",
+  "version": "1.0.0",
+  "description": "剑三宏语法高亮",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JX3BOX/jx3box-macro.git"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
